@@ -4,15 +4,14 @@
 <div align="center">Built with the Next.js App Router</div>
 <br />
 <div align="center">
-<a href="http://admin-dash-template.vercel.sh/">Demo</a>
+<a href="https://ksigadmin-dashboard.vercel.app"> Live </a>
 <span> · </span>
-<a href="https://vercel.com/templates/next.js/admin-dashboard-tailwind-planetscale-react-nextjs">Clone & Deploy</a>
+
 <span>
 </div>
 
-## Overview
+## Tech Stack
 
-This is a starter template using the following stack:
 
 - Framework - [Next.js 13](https://nextjs.org/13)
 - Language - [TypeScript](https://www.typescriptlang.org)
